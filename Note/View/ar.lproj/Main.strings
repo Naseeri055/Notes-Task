@@ -1,0 +1,124 @@
+
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "0Q4-70-pe4"; */
+"0Q4-70-pe4.text" = "البريد";
+
+/* Class = "UILabel"; text = "Email"; ObjectID = "0yq-Jr-BwR"; */
+"0yq-Jr-BwR.text" = "البريد";
+
+/* Class = "UILabel"; text = "or"; ObjectID = "113-F8-fik"; */
+"113-F8-fik.text" = "أو";
+
+/* Class = "UITabBarItem"; title = "My notes"; ObjectID = "230-41-8Am"; */
+"230-41-8Am.title" = "ملاحظاتي";
+
+/* Class = "UIButton"; configuration.title = "Register"; ObjectID = "2Na-NU-N7s"; */
+"2Na-NU-N7s.configuration.title" = "تسجيل";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "2Na-NU-N7s"; */
+"2Na-NU-N7s.normalTitle" = "Button";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "65a-zd-u5F"; */
+"65a-zd-u5F.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UINavigationItem"; title = "My notes"; ObjectID = "7k3-bO-a7a"; */
+"7k3-bO-a7a.title" = "ملاحظاتي";
+
+/* Class = "UIButton"; configuration.title = "Login"; ObjectID = "8Lw-M0-KDJ"; */
+"8Lw-M0-KDJ.configuration.title" = "دخول";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "8Lw-M0-KDJ"; */
+"8Lw-M0-KDJ.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "password"; ObjectID = "94P-Ky-vba"; */
+"94P-Ky-vba.text" = "الرقم السري";
+
+/* Class = "UIButton"; configuration.title = "Register"; ObjectID = "ALI-6G-vrE"; */
+"ALI-6G-vrE.configuration.title" = "تسجيل";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ALI-6G-vrE"; */
+"ALI-6G-vrE.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Watch the broadcast of the camp"; ObjectID = "BOf-vY-v5q"; */
+"BOf-vY-v5q.text" = "Watch the broadcast of the camp";
+
+/* Class = "UIButton"; configuration.title = "Login"; ObjectID = "CY8-Rw-hd4"; */
+"CY8-Rw-hd4.configuration.title" = "دخول";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "CY8-Rw-hd4"; */
+"CY8-Rw-hd4.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Name"; ObjectID = "If1-Ba-6Dz"; */
+"If1-Ba-6Dz.text" = "الاسم";
+
+/* Class = "UILabel"; text = "TodosVC.d\nTodosVC.diaTodosVC.d\nTodosVC.diaTodosVC.d\nTodosVC.diaTodosVC.d\nTodosVC.diaTodosVC.d\nTodosVC.diaTodosVC.d\nTodosVC.dia"; ObjectID = "Jvu-KO-59J"; */
+"Jvu-KO-59J.text" = "TodosVC.d\nTodosVC.diaTodosVC.d\nTodosVC.diaTodosVC.d\nTodosVC.diaTodosVC.d\nTodosVC.diaTodosVC.d\nTodosVC.diaTodosVC.d\nTodosVC.dia";
+
+/* Class = "UITabBarItem"; title = "Addendum"; ObjectID = "L7T-Lz-Rvj"; */
+"L7T-Lz-Rvj.title" = "إضافة";
+
+/* Class = "UINavigationItem"; title = "New note"; ObjectID = "Li0-N1-GN0"; */
+"Li0-N1-GN0.title" = "ملاحظة جديدة";
+
+/* Class = "UITextField"; placeholder = "Title"; ObjectID = "QN2-ap-362"; */
+"QN2-ap-362.placeholder" = "العنوان";
+
+/* Class = "UIButton"; configuration.title = "change photo"; ObjectID = "TW8-r4-JYO"; */
+"TW8-r4-JYO.configuration.title" = "تغيير الصورة";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "TW8-r4-JYO"; */
+"TW8-r4-JYO.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Register"; ObjectID = "URL-4i-myB"; */
+"URL-4i-myB.configuration.title" = "تسجيل";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "URL-4i-myB"; */
+"URL-4i-myB.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Note"; ObjectID = "VHI-aJ-UF0"; */
+"VHI-aJ-UF0.text" = "ملاحظه";
+
+/* Class = "UIViewController"; title = "Note"; ObjectID = "Vye-Xj-NQe"; */
+"Vye-Xj-NQe.title" = "ملاحظه";
+
+/* Class = "UILabel"; text = "password"; ObjectID = "ZvH-HN-490"; */
+"ZvH-HN-490.text" = "الرقم السري";
+
+/* Class = "UIButton"; configuration.title = "Login"; ObjectID = "cwW-o2-Onq"; */
+"cwW-o2-Onq.configuration.title" = "دخول";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "cwW-o2-Onq"; */
+"cwW-o2-Onq.normalTitle" = "Button";
+
+/* Class = "UIButton"; configuration.title = "Delete"; ObjectID = "gZn-nq-F2U"; */
+"gZn-nq-F2U.configuration.title" = "حذف";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "gZn-nq-F2U"; */
+"gZn-nq-F2U.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "2022/01/01"; ObjectID = "jS6-l3-3pZ"; */
+"jS6-l3-3pZ.text" = "2022/01/01";
+
+/* Class = "UILabel"; text = "Watch the project"; ObjectID = "jrp-ug-hvU"; */
+"jrp-ug-hvU.text" = "مشاهدة الملالحظة";
+
+/* Class = "UILabel"; text = "password"; ObjectID = "mfx-HO-Me1"; */
+"mfx-HO-Me1.text" = "الرقم السري";
+
+/* Class = "UILabel"; text = "details"; ObjectID = "oh0-al-ZGV"; */
+"oh0-al-ZGV.text" = "التفاصيل";
+
+/* Class = "UILabel"; text = "The title of the note"; ObjectID = "rqp-57-kuL"; */
+"rqp-57-kuL.text" = "العنوان";
+
+/* Class = "UIButton"; configuration.title = "Addendum"; ObjectID = "wyy-us-z59"; */
+"wyy-us-z59.configuration.title" = "اضافة";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "wyy-us-z59"; */
+"wyy-us-z59.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "or"; ObjectID = "xl6-Hl-lAN"; */
+"xl6-Hl-lAN.text" = "أو";
+
+/* Class = "UIButton"; normalTitle = "Addendum"; ObjectID = "xrO-pC-iJg"; */
+"xrO-pC-iJg.normalTitle" = "اضافة";
